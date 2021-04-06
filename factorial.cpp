@@ -22,8 +22,7 @@ int main()
 }
 //int main() {
 //	int number;
-//	int factorial_value=1 ;
-//	cout<<" Enter a number whose Factorial you want to find :  ";
+//	int factorial_value=1
 //	cin>>number;
 //	for (int x=1;x<=number;x++) {
 //		factorial_value= factorial_value *x;
